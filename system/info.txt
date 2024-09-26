@@ -1,0 +1,11 @@
+This folder contains the imports and configuration for various system applications
+
+It is all centrally imported to default.nix
+
+Indicative Content:
+
+- Window Manager
+- Systemwide Applications
+- Audio
+- Fonts 
+
